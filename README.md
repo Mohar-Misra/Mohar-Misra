@@ -10,7 +10,7 @@
 - 🎒 IGCSE graduate (Class of 2025) | Currently pursuing AS Levels at Glenrich International School
 - 💡 I got hooked on technology during the 2020 pandemic — and never looked back
 - 🌱 Constantly learning — from web development to artificial intelligence and entrepreneurship
-- 🚀 Dreaming big: I aim to study Computer Science in top Canadian universities (UofT, UWaterloo, UBC, McGill)
+- 🚀 Focused on building projects that make a difference, especially in education and accessibility
 
 ---
 
@@ -29,7 +29,7 @@
 ## 🛠️ Projects
 
 ### 🔹 CoachingHub *(In Progress)*
-> A platform to connect Dhaka’s students with verified coaching centers (SSC, HSC, A-Level, AS-Level)  
+> A platform to connect Dhaka’s students with verified coaching centers (IGCSE, AS-Level, A-Level)  
 Tech: HTML/CSS, JavaScript, Firebase  
 Status: Finalizing MVP and preparing for partnership meetings
 
@@ -49,26 +49,17 @@ Goal: Simplified local AI tools with personalization features
 
 - ⏳ Build apps that **solve under-discussed national/global problems**—fast, free, and effective  
 - 🌐 Launch a **personal portfolio website** coded from scratch  
-- 📚 Crack the **SAT (target: 1550+)** and land admission in a top Canadian CS program  
-- 🧩 Learn deeper **data structures, algorithms, and AI development**
-
----
-
-## 🎬 Other Creative Work
-
-🎥 [**The BoroBhais**](https://www.youtube.com/@TheBoroBhais)  
-> Youth-run YouTube channel focused on short films and moral stories with hidden lessons
 
 ---
 
 ## 📫 Let's Connect
 
-- 📧 mohar.email@example.com *(replace with real)*
-- 💼 LinkedIn: [linkedin.com/in/moharmisra](https://linkedin.com/in/yourusername)
-- 🌐 Portfolio: [moharmisra.dev](https://yourdomain.dev) *(coming soon)*
+- 📧 misra.mohar123@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/moharmisra](https://linkedin.com/in/yourusername) *(optional)*  
+- 🌐 Portfolio: [moharmisra.dev](https://yourdomain.dev) *(coming soon)*  
 - 🧠 Currently open to:
-  - Collaborations with student developers
-  - Startup partnerships
+  - Collaborations with student developers  
+  - Startup partnerships  
   - Mentorship & learning opportunities
 
 ---
