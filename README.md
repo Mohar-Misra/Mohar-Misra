@@ -33,10 +33,6 @@
 Tech: HTML/CSS, JavaScript, Firebase  
 Status: Finalizing MVP and preparing for partnership meetings
 
-### 🔹 SchoolHub Web Portal *(For Grades 5–12)*
-> Personalized dashboard with homework planner, exam scheduler, study resources, and grade-specific tools  
-Tech: React, Tailwind, Firebase (planned)  
-Goal: Make school tools more centralized and accessible
 
 ### 🔹 Voice Assistant Prototype *(Experimental)*
 > Custom input/output voice bot using browser mic and programmable AI voice  
