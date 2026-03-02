@@ -28,7 +28,7 @@
 
 ## 🛠️ Projects
 
-### 🔹 CoachingHub *(In Progress)*
+### 🔹 YourCoachMap *(In Progress)*
 > A platform to connect Dhaka’s students with verified coaching centers (IGCSE, AS-Level, A-Level)  
 Tech: HTML/CSS, JavaScript, Firebase  
 Status: Finalizing MVP and preparing for partnership meetings
