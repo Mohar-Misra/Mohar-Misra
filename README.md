@@ -16,8 +16,8 @@
 
 ## 🔧 Tech Stack & Skills
 
-- **Languages:** Python, JavaScript, HTML/CSS, C-style pseudocode
-- **Frameworks & Tools:** React, Tailwind CSS, Node.js, Git, Firebase (beginner)
+- **Languages:** Python, HTML/CSS, C-style pseudocode
+- **Frameworks & Tools:** Git, Firebase (beginner)
 - **Other Skills:**  
   - AI Prompt Engineering  
   - Data Structures (basic to intermediate)  
@@ -30,7 +30,7 @@
 
 ### 🔹 YourCoachMap *(In Progress)*
 > A platform to connect Dhaka’s students with verified coaching centers (IGCSE, AS-Level, A-Level)  
-Tech: HTML/CSS, JavaScript, Firebase  
+Tech: HTML/CSS, Firebase  
 Status: Finalizing MVP and preparing for partnership meetings
 
 
@@ -50,9 +50,7 @@ Goal: Simplified local AI tools with personalization features
 
 ## 📫 Let's Connect
 
-- 📧 misra.mohar123@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/moharmisra](https://linkedin.com/in/yourusername) *(optional)*  
-- 🌐 Portfolio: [moharmisra.dev](https://yourdomain.dev) *(coming soon)*  
+- 📧 misra.mohar06@gmail.com  
 - 🧠 Currently open to:
   - Collaborations with student developers  
   - Startup partnerships  
