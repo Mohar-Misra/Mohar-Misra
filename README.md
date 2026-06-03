@@ -1,16 +1,7 @@
 # 👋 Hi, I'm Mohar Misra
 
-🎓 AS-Level Student | 💻 Budding Computer Scientist | 🌍 Dhaka, Bangladesh  
+🎓 A-Level Student | 💻 Budding Computer Scientist | 🌍 Dhaka, Bangladesh  
 🔭 Passionate about building real-world solutions using code, collaboration, and creativity.
-
----
-
-## 🧠 About Me
-
-- 🎒 IGCSE graduate (Class of 2025) | Currently pursuing AS Levels at Glenrich International School
-- 💡 I got hooked on technology during the 2020 pandemic — and never looked back
-- 🌱 Constantly learning — from web development to artificial intelligence and entrepreneurship
-- 🚀 Focused on building projects that make a difference, especially in education and accessibility
 
 ---
 
@@ -33,19 +24,6 @@
 Tech: HTML/CSS, Firebase  
 Status: Finalizing MVP and preparing for partnership meetings
 
-
-### 🔹 Voice Assistant Prototype *(Experimental)*
-> Custom input/output voice bot using browser mic and programmable AI voice  
-Tech: JavaScript, Web Speech API  
-Goal: Simplified local AI tools with personalization features
-
----
-
-## 🎯 Goals
-
-- ⏳ Build apps that **solve under-discussed national/global problems**—fast, free, and effective  
-- 🌐 Launch a **personal portfolio website** coded from scratch  
-
 ---
 
 ## 📫 Let's Connect
@@ -53,7 +31,7 @@ Goal: Simplified local AI tools with personalization features
 - 📧 misra.mohar06@gmail.com  
 - 🧠 Currently open to:
   - Collaborations with student developers  
-  - Startup partnerships  
+  - Internships
   - Mentorship & learning opportunities
 
 ---
